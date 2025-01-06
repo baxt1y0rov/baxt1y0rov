@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baxt1y0rov
 - 👀 I’m interested in Graphic Design and FrontEnd Development
-- 🌱 I’m currently learning Backend Developmen
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me: contact: ismatullohbakh2010@gmail.com
 - ⚡ Fun fact: I hate development, but I love it
 
